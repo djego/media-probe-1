@@ -14,7 +14,7 @@ const Layout: React.FC = ({children}) => {
                 position="sticky" 
                 zIndex="3">
                 <Box maxWidth="1024px" margin="0 auto">
-                    <Text fontSize="3xl" py="0.8rem" color="gray.700">Media Probe</Text>
+                    <Text fontSize="3xl" py="0.8rem" color="gray.700">Media</Text>
                 </Box>
             </Box>
             <Box maxWidth="1024px"  margin="0 auto" pt="1rem" px="0.4rem">
